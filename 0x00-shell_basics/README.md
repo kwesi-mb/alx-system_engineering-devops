@@ -5,3 +5,5 @@ ls -l - To print the content of a directory in a long format
 ls -la - listing all the hidden contents in a long format
 ls -lna - list all hidden files and user IDs numerically in a long format 
 mkdir - creates a directory
+mv - moving a file
+rm - deleting a file

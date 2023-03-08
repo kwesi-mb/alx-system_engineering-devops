@@ -15,3 +15,4 @@ ln -s - for creating a symbolic link
 cp -un *.hmtl ../ - copying all the new html files from the current directory to the parent directory
 mv [[:upper:]]* - moves all the upper-case files
 rm *~ - deleting all the files that end with the character ~
+mkdir -p - To create a tree directory

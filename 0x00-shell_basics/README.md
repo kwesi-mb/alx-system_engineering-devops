@@ -12,3 +12,4 @@ cd .. - changing to the previous directory
 ls -al . .. /boot - listing all the hidden files in the current, parent and boot directory 
  file - to check file type
 ln -s - for creating a symbolic link
+cp -un *.hmtl ../ - copying all the new html files from the current directory to the parent directory

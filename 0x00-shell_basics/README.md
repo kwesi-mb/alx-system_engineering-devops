@@ -16,3 +16,4 @@ cp -un *.hmtl ../ - copying all the new html files from the current directory to
 mv [[:upper:]]* - moves all the upper-case files
 rm *~ - deleting all the files that end with the character ~
 mkdir -p - To create a tree directory
+ls -amvp - list all the files, hidden files , sorted files with commas

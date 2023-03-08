@@ -7,3 +7,4 @@ ls -lna - list all hidden files and user IDs numerically in a long format
 mkdir - creates a directory
 mv - moving a file
 rm - deleting a file
+rm -r - deleting a directory

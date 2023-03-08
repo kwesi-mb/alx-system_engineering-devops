@@ -9,3 +9,4 @@ mv - moving a file
 rm - deleting a file
 rm -r - deleting a directory
 cd .. - changing to the previous directory
+ls -al . .. /boot - listing all the hidden files in the current, parent and boot directory 

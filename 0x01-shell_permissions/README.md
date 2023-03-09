@@ -3,3 +3,4 @@ su betty -- switching the user to betty
 \n id-nG -- prints all the groups the current user is part of
 \nsudo chown -- change file ownership
 \necho -- creating a new file
+\nchmod 100 -- adds execute permissions to the owner of the file

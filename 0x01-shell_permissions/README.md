@@ -8,3 +8,4 @@ su betty -- switching the user to betty
 \nchmod 111 -- adds execution permissionn to the owner, the group owner and the other users 
 \nchmod 007 -- adds all permissions to the other users 
 \nchmod 753 -- canges mode to rwxr-x-wx
+\nchmod --reference=  -- copy the permissions of another file

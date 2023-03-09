@@ -11,3 +11,4 @@ su betty -- switching the user to betty
 \nchmod --reference=  -- copy the permissions of another file
 changing the persmissions of all subdirectories
  creating more directories 
+changing the group ownership

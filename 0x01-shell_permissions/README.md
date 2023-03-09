@@ -13,3 +13,4 @@ changing the persmissions of all subdirectories
  creating more directories 
 changing the group ownership
 changing the owner and group owner of all the files and directories
+chaging the ownership to symbolic links 

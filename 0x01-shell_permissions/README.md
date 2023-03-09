@@ -9,3 +9,4 @@ su betty -- switching the user to betty
 \nchmod 007 -- adds all permissions to the other users 
 \nchmod 753 -- canges mode to rwxr-x-wx
 \nchmod --reference=  -- copy the permissions of another file
+changing the persmissions of all subdirectories

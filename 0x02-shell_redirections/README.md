@@ -21,3 +21,4 @@ Displays the last 10 lines of a file
 20. Removes all letters c and C from input
 21. reverses its input 
 22. displays all users and their home directories, sorted by users 
+23. Finds all empty files in the current directory and all sub-directories

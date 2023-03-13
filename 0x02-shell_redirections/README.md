@@ -23,3 +23,4 @@ Displays the last 10 lines of a file
 22. displays all users and their home directories, sorted by users 
 23. Finds all empty files in the current directory and all sub-directories
 24. Lists all the files with a .gif extension in the current directory and all its sub-directories
+25. decodes acrostics
